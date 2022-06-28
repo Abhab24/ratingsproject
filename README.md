@@ -1,6 +1,7 @@
 # interative-rating-component
 
-My solution to the interactive rating component challenge on Frontendmentor. Here is the working link [here](http://interative-rating-component.vercel.app/)
+Its an Interactive rating component that can be very useful to gather the feedback of the user for our website,
+service, etc.. Here is the working link [here](http://interative-rating-component.vercel.app/)
 
 # Screenshot
 Here is a screenshot of my solution
