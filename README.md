@@ -1,6 +1,6 @@
 # interative-rating-component
 
-My solution to the interactive rating component challenge on Frontendmentor. You could check the challenge [here](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI)
+My solution to the interactive rating component challenge on Frontendmentor. Here is the working link [here](http://interative-rating-component.vercel.app/)
 
 # Screenshot
 Here is a screenshot of my solution
